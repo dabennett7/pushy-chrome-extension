@@ -10,7 +10,8 @@
 		"38": "/images/pushy_38.png",
 		"128": "/images/pushy_128.png"
 	},
-	"content_security_policy":"script-src 'self' https://apis.google.com/ https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com; object-src 'self'",
+	"content_security_policy": "script-src 'self' https://apis.google.com/ https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com; object-src 'self'",
+	"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs4trGaAF9TF0H16FMUqawGn+7vihskyqGI4fqHTLIMpz5QmoWbw7jRR8/6t3kbzY756Mvy/KGheMcb0iLWIgsP+Ps+bJSkiNZMuZShWp6jVS+ZbCi9E9ow06fhU0Xj2gdeRZrHgNPBHufA9maiJ4x3GCR9R3Bd6gOIHvqtvio7h5Csjz87hiGb6Em6nrMps0Jd4X2eyFzOn+zmOCGigY/7/sQWCAhvOqqz1A3z+l932PfbcQDLYCJXemGW2+YxyyBWJi3jIgLkR/IQcgleFpM4OhGXva1XzgyXfastyIdefKX5E9+abAzmnpmkHRi5UUQS84v8lWwAfvMxYD9lScMwIDAQAB",
 	"oauth2": {
 		"client_id": "597467211507-1b8o95nmvp3dh5h38ttpdpogln0bjusj.apps.googleusercontent.com",
 		"scopes": [
