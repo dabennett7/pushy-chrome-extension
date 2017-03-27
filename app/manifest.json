@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
-	"name": "Clip Man",
-	"short_name": "Clip Man",
+	"name": "Pushy Clipboard",
+	"short_name": "Pushy",
 	"description": "Store and manage clipboard entries. Share with all your Android and Desktop devices.",
 	"version": "0.3.0",
 	"minimum_chrome_version": "52",
@@ -41,7 +41,7 @@
 		"persistent": true
 	},
 	"browser_action": {
-		"default_title": "Clip Man - Click to get clipboard contents.",
+		"default_title": "Pushy - Click to get & send clipboard contents.",
 		"default_icon": "/images/clip-man_19.png"
 	},
 	"options_page": "/html/main.html"
