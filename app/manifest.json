@@ -11,7 +11,6 @@
 		"128": "/images/pushy_128.png"
 	},
 	"content_security_policy":"script-src 'self' https://apis.google.com/ https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com; object-src 'self'",
-	"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA38+0h7JeddtAmykJktkpSZZn5hxgr/2AWKecl6ixXvDDvfZAnoe6Atuen77eMqspYrt5WPQ386Kf66COn4gqQm1rkMi+Ulet+FkASSt46t7ZVIW7T5WG3rHiq60rORmty+QZKZg/NJup1clXexg/rTc0T4Yfy7w4R1tqb6v12GSPxurvpaNs8Svq9tEtwhA4oxeBQ+q8hDjNocEPgwJqQWjR35jRez6Sk+mt0adXzhfcG25NMj/fdj6gzVjxEJYbMNKXHG1YLKSKD1gDh65zrKKaRiIvNRVkfnCx9NItRWIqmYdJSuLQbPw6I/PZH/Y3nV7Y9s/m+6M7RuYTQzRoCwIDAQAB",
 	"oauth2": {
 		"client_id": "597467211507-1b8o95nmvp3dh5h38ttpdpogln0bjusj.apps.googleusercontent.com",
 		"scopes": [
