@@ -6,8 +6,9 @@
 	"version": "0.1.4",
 	"minimum_chrome_version": "52",
 	"icons": {
-		"19": "/images/pushy_19.png",
-		"38": "/images/pushy_38.png",
+		"16": "/images/simple_16.png",
+		"32": "/images/pushy_32.png",
+		"48": "/images/pushy_48.png",
 		"128": "/images/pushy_128.png"
 	},
 	"content_security_policy": "script-src 'self' https://apis.google.com/ https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com; object-src 'self'",
@@ -41,8 +42,12 @@
 		"persistent": true
 	},
 	"browser_action": {
-		"default_title": "Pushy - Click to get & send clipboard contents.",
-		"default_icon": "/images/pushy_19.png"
+		"default_title": "Pushy - Click to get & share clipboard contents.",
+		"default_icon": {
+			"16": "images/simple_16.png",
+			"24": "images/simple_24.png",
+			"32": "images/simple_32.png"
+		}
 	},
 	"options_page": "/html/main.html"
 }
