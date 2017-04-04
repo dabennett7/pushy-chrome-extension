@@ -20,11 +20,6 @@
 			"profile"
 		]
 	},
-	"content_scripts": [{
-		"matches": ["http://*/*", "https://*/*"],
-		"all_frames": true,
-		"js": ["scripts/on_copy_cut_content_script.js"]
-	}],
 	"permissions": [
 		"identity",
 		"identity.email",
@@ -36,7 +31,9 @@
 		"notifications",
 		"webRequest",
 		"webRequestBlocking",
-		"http://*.anyoldthing.com/*",
+		"http://*.anyoldthing.com/*"
+	],
+	"optional_permissions": [
 		"tabs",
 		"http://*/*",
 		"https://*/*"
