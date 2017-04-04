@@ -26,7 +26,6 @@
 		"clipboardRead",
 		"clipboardWrite",
 		"storage",
-		"unlimitedStorage",
 		"alarms",
 		"notifications",
 		"webRequest",
