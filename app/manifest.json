@@ -30,7 +30,7 @@
 		"notifications",
 		"webRequest",
 		"webRequestBlocking",
-		"http://*.anyoldthing.com/*"
+		"https://pushy-clipboard.github.io/*"
 	],
 	"optional_permissions": [
 		"tabs",
