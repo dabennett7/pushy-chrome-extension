@@ -3,7 +3,7 @@
 	"name": "Pushy Clipboard",
 	"short_name": "Pushy",
 	"description": "Store and manage clipboard entries. Share with all your Android and Desktop devices.",
-	"version": "0.1.6",
+	"version": "0.1.7",
 	"minimum_chrome_version": "52",
 	"icons": {
 		"16": "/images/simple_16.png",
